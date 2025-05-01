@@ -1,1 +1,0 @@
-This folder is for numerical calculation of IR divergence behavior.
